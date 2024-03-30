@@ -1,0 +1,2 @@
+# Russian-Gen
+FUN TOOL MADE BY R2ST IN PY 
